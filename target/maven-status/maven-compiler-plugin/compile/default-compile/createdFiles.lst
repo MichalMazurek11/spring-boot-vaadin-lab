@@ -1,0 +1,5 @@
+pl\edu\utp\ui\ContactForm$DeleteEvent.class
+pl\edu\utp\ui\ContactForm$ContactFormEvent.class
+pl\edu\utp\ui\ContactForm$SaveEvent.class
+pl\edu\utp\ui\ContactForm$CloseEvent.class
+pl\edu\utp\ui\ContactForm.class
